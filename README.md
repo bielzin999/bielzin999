@@ -1,5 +1,7 @@
-<h2 align="left">OLÁ! SOU LUIZ GABRIEL.</h2>
+<h2 align="left">OLÁ! SOU LUIZ GABRIEL.</h2>  
+ <p align="left">✨ PROGRAMADOR<br>📚 ESTUDANTE DO IFTO</p>
 
+###
 ###
 
 <img align="right" height="160" src="https://i.imgflip.com/65efzo.gif"  />
