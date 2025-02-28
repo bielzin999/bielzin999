@@ -1,12 +1,34 @@
 <h2 align="left">OLÁ! SOU LUIZ GABRIEL.</h2>  
+
  <p align="left">✨ PROGRAMADOR<br>📚 ESTUDANTE DO IFTO</p>
+ 
+<div align="center">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bielzin999/count.svg?"  />
+</div>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bielzin999/count.svg?"  />
+</div>
+
 ###
 
-<img align="right" height="160" src="https://i.imgflip.com/65efzo.gif"  />
+ 
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+</div>
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+
+<br clear="both">
+
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
